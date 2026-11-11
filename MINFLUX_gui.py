@@ -3,7 +3,7 @@
 =========================================================
 
 SETUP
-    pip install requirements.txt
+    pip install -r requirements.txt
     python MINFLUX_gui.py
 
 HOW PLOTLY FITS INSIDE TKINTER 
